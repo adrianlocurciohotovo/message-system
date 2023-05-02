@@ -5,5 +5,5 @@
  * @author adrianlocurcio
  *
  */
-module observer {
+module Messagesystem {
 }
